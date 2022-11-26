@@ -1,1 +1,2 @@
 weather_api_key="1f11fd4c1124fe0f9effb3158e013dd4"
+geoapify_key = "03a88608310946b7bcea3779e742bee0"
